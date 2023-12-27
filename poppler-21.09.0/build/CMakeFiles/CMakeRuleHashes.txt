@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+ba34e35366c5a07a3cabb30af79b78a5 CMakeFiles/dist
+c52dcc374ff6b32a2294882156ca661f glib/poppler-enums.c
+028b9990e117269a74164064f01ea607 glib/poppler-enums.h
